@@ -3,15 +3,15 @@
 
 *{font-family:'PT Serif';}
 
-a{
-    text-decoration: none;
+a {
+    text-decoration: none !important;
     color: white !important;
     font-weight: 500;
 }
 
 
 a:hover{
-    color: #FE8D8D !important;
+    color: #a06464 !important;
     text-decoration: none;
 }
 
